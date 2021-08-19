@@ -1,2 +1,2 @@
-# ECommerce1
+# ECommerceWebsite
 Simple ecommerce site with carts
